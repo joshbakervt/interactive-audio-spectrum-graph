@@ -19,3 +19,6 @@ https://new.pythonforengineers.com/blog/audio-and-digital-signal-processingdsp-i
 
 - Plotting audio files
 https://stackoverflow.com/questions/18625085/how-to-plot-a-wav-file
+
+- PyQt5 GUI
+https://www.tutorialspoint.com/pyqt5/pyqt5_major_classes.htm
