@@ -9,6 +9,8 @@ https://analyticsindiamag.com/7-python-libraries-for-manipulating-audio-that-dat
 - For Spotify integration
 https://spotipy.readthedocs.io/en/2.19.0/
 
+https://medium.com/@kothawleprem/how-to-play-a-spotify-audio-with-python-7daca30677e3
+
 - For 3-dimensional graphing with matplotlib
 https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.12-Three-Dimensional-Plotting.ipynb#scrollTo=B7aovLtgBj0Y
 
