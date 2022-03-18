@@ -16,3 +16,6 @@ https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/
 
 - Audio and digital signal processing in Python
 https://new.pythonforengineers.com/blog/audio-and-digital-signal-processingdsp-in-python/
+
+- Plotting audio files
+https://stackoverflow.com/questions/18625085/how-to-plot-a-wav-file
