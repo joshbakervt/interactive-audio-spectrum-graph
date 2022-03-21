@@ -22,3 +22,6 @@ https://stackoverflow.com/questions/18625085/how-to-plot-a-wav-file
 
 - PyQt5 GUI
 https://www.tutorialspoint.com/pyqt5/pyqt5_major_classes.htm
+
+- Web Audio API 
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API
