@@ -1,5 +1,5 @@
 # Interactive Audio Spectrum Graph
-This personal project will allow users to visualize audio frequency analysis of an inputted wav file. Hoping to include integration of streaming platforms like spotify (with login), and allow manipulation of playback (pause, scroll), in addition to reverberation, echo, isolation
+This personal project utilizes the Spotipy and Web Audio APIs to play back audio via Spotify from the user's browser, and will include a visualization of frequency analysis. Hoping to include audio manipulation (reverb) and basic playback functions like scrolling.
 
 # Useful links
 
