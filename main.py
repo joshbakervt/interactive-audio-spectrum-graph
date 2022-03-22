@@ -8,7 +8,7 @@ import webbrowser
 def main():
     username = 'joshbakervt'
     clientID = '0d50987c4fc84765b643819b08e00225'
-    clientSecret = '9c16e15a8052474dbbdbb7314fb9f78b'
+    clientSecret = ''
     redirectURI = 'https://www.google.com'
 
     # Create OAuth Object
